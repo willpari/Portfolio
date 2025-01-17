@@ -188,8 +188,12 @@ body {
 
 .project-links {
     display: flex;
+    justify-content: flex-end; 
+    align-items: center; 
     gap: 0.5rem;
+    margin-top: -4rem; 
 }
+
 
 .project-link {
     padding: 0.5rem;
